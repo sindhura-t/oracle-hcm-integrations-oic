@@ -3,9 +3,9 @@ Oracle HCM Cloud integrations using OIC, REST/SOAP APIs, and HCM Extracts.
 # Oracle HCM Integrations & OIC Workflows
 
 ## Overview
-This repository documents end-to-end integrations between Oracle HCM Cloud and external enterprise systems using Oracle Integration Cloud (OIC).
+This repository documents enterprise integrations that I designed and supported across multiple clients, including Florida Blue, using Oracle Integration Cloud (OIC) and HCM Extracts.
 
-## Integration Use Cases
+## Integration Use Cases (Across Clients)
 - HCM → Payroll vendor data transmission
 - HCM → Identity management (user provisioning)
 - HCM → Learning Management System (LMS)
@@ -17,7 +17,7 @@ This repository documents end-to-end integrations between Oracle HCM Cloud and e
 - OIC orchestration workflows
 - Automated error handling and retry mechanisms
 
-## Business Impact
+## Business Impact (Across Clients)
 - Automated end-to-end HR data flows
 - Reduced manual data entry
 - Improved system reliability and monitoring
